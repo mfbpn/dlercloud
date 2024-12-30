@@ -1,6 +1,6 @@
 # dlercloud国内官网地址
 
-最新地址：[dlercloud.com](https://dler.pro/auth/register?affid=162733)
+最新地址：[dlercloud.com](https://dler.pro/auth/register?affid=190130)
 
 ## dlercloud简介
 
